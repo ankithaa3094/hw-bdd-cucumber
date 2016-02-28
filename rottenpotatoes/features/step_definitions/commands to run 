@@ -1,0 +1,2 @@
+commands to run : cucumber features/sort_movie_list.feature
+and then commit and push
